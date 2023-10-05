@@ -3,4 +3,4 @@
 
 Within this repository, you will find a wealth of knowledge covering a wide range of Linux-related topics. From essential command-line instructions to advanced system configurations, "Linux Notes" offers a diverse set of resources to support your Linux journey.
 
-Whether you are a novice exploring the Linux ecosystem or an experienced user seeking in-depth guides and best practices, these notes aim to elevate your proficiency and knowledge of Linux. Join us on an informative expedition into the world of Linux, where we strive to provide excellence in every aspect of this remarkable operating system.
+Whether you are a novice exploring the Linux ecosystem or an experienced user seeking in-depth guides and best practices, these notes aim to elevate your proficiency and knowledge of Linux. 
