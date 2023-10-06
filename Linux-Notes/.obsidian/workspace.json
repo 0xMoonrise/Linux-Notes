@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a20c3018f6095e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking.md",
+                "file": "General_purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking.md",
+                "file": "General_purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking.md"
+                "file": "General_purpose.md"
               }
             }
           }
@@ -159,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a20c3018f6095e4",
+  "active": "8f0362d36f09a9d4",
   "lastOpenFiles": [
-    "General_purpose.md",
+    "Random/Random_stuff.md",
     "Networking.md",
+    "Random",
+    "General_purpose.md",
     "Snippets/01-Bash_Code.md",
     "Snippets",
     "Scripts/vlan_cleaner.sh",
